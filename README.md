@@ -13,7 +13,7 @@ This project demonstrates the Graphical Solution Method, a technique for solving
 - **PuLP** (`pulp`) – for solving linear programming problems
 - **itertools** (`combinations`) – for generating combinations of constraints
 
-## 🚀 Features & Analyses
+## Features & Analyses
 - Formulation of linear programming problems using the PuLP library
 - Graphical representation of constraints and feasible regions
 - Intersection of constraint lines to determine feasible solutions
