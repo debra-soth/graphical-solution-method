@@ -1,7 +1,7 @@
 # Graphical Solution Method
 
 ## Project Description
-This project demonstrates the Graphical Solution Method, a technique for solving linear programming (LP) problems with two decision variables. The approach involves graphing constraints and identifying feasible regions to optimize an objective function.
+This group project demonstrates the Graphical Solution Method, a technique for solving linear programming (LP) problems with two decision variables. The approach involves graphing constraints and identifying feasible regions to optimize an objective function.
 
 ## Google Colab Link
 [Run this notebook on Google Colab](https://colab.research.google.com/drive/11b9NY3MQyZ-X6npaRzceATritpXymjNG?usp=sharing)
